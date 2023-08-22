@@ -1,0 +1,6 @@
+framework module Pods_TechSaga {
+  umbrella header "Pods-TechSaga-umbrella.h"
+
+  export *
+  module * { export * }
+}
